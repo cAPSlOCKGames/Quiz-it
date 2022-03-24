@@ -1,0 +1,19 @@
+{
+    "q1": {
+        "question": "What's my favorite food?",
+        "opA": "Pizza",
+        "opB": "Chicken",
+        "opC": "Carrots",
+        "opD": "Salad",
+        "correct": "opA"
+    },
+
+    "q2": {
+        "question": "What's my favorite video game?",
+        "opA": "Roblox",
+        "opB": "Driveclub",
+        "opC": "Gran Turismo",
+        "opD": "Minecraft",
+        "correct": "opB"
+    }
+}
